@@ -1,8 +1,0 @@
-{
-    "name": "Кинопоиск",
-    "version": "2.0",
-    "description": "Просмотр фильмов и сериалов через Кинопоиск",
-    "logo": "https://www.kinopoisk.ru/favicon.ico",
-    "background": "#000000",
-    "js": "https://alexwisner1995.github.io/kinopoisk-plugin/adapt.js"
-}
